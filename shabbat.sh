@@ -1,7 +1,7 @@
 #!/bin/zsh
 
 # @raycast.schemaVersion 1
-# @raycast.title shabbat
+# @raycast.title Shabbat
 # @raycast.mode fullOutput
 # @raycast.packageName My Scripts
 # @raycast.description See Shabbat info

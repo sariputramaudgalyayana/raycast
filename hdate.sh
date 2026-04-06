@@ -1,7 +1,7 @@
 #!/bin/zsh
 
 # @raycast.schemaVersion 1
-# @raycast.title hdate
+# @raycast.title Hebrew Date
 # @raycast.mode fullOutput
 # @raycast.packageName My Scripts
 # @raycast.description See Hebrew date

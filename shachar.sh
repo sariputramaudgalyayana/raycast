@@ -1,7 +1,7 @@
 #!/bin/zsh
 
 # @raycast.schemaVersion 1
-# @raycast.title shachar
+# @raycast.title Shachar
 # @raycast.mode fullOutput
 # @raycast.packageName My Scripts
 # @raycast.description Know when the sun rises

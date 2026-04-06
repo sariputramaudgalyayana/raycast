@@ -2,7 +2,7 @@
 
 # Required parameters:
 # @raycast.schemaVersion 1
-# @raycast.title Copy md skill
+# @raycast.title Copy md Skill
 # @raycast.mode silent
 
 # Optional parameters:
